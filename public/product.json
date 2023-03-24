@@ -1,0 +1,87 @@
+[
+  {
+    "name":"Maybelline New York Hydra Extreme",
+    "price":"87 грн",
+    "pathToPic":"https://u.makeup.com.ua/p/pt/pticalscejff.jpg",
+    "article":"01",
+    "color":"Розовое дерево"
+  },
+  {
+    "name":"Maybelline New York Color Sensational",
+    "price":"150 грн",
+    "pathToPic":"https://u.makeup.com.ua/p/pt/pticalscejff.jpg",
+    "article":"02",
+    "color":"Бежево-розовый"
+  },
+  {
+    "name":"Maybelline New York Super Stay Ink Crayon",
+    "price":"180 грн",
+    "pathToPic":"https://u.makeup.com.ua/v/vj/vjctjo9nj0su.jpg",
+    "article":"03",
+    "color":"Пурпупно-розовый"
+  },
+  {
+    "name":"Maybelline New York Lifter Gloss",
+    "price":"214 грн",
+    "pathToPic":"https://u.makeup.com.ua/a/ay/ayu8eqiyarxt.jpg",
+    "article":"04",
+    "color":"Красный"
+  },
+  {
+    "name":"Maybelline New York Hydra Extreme Matte",
+    "price":"107 грн",
+    "pathToPic":"https://u.makeup.com.ua/v/v4/v4lugv6umtry.jpg",
+    "article":"05",
+    "color":"Нюдовый"
+  },
+  {
+    "name":"Maybelline New York Color Sensational Mattes Nudes",
+    "price":"163 грн",
+    "pathToPic":"https://u.makeup.com.ua/9/98/987-smoky-rose-20170527150523.jpg",
+    "article":"06",
+    "color":"Кремовый"
+  },
+  {
+    "name":"Maybelline New York Color Sensational Made For All",
+    "price":"150 грн",
+    "pathToPic":"https://u.makeup.com.ua/s/sy/sy48csuj2q6x.jpg",
+    "article":"07",
+    "color":"Фуксия"
+  },
+  {
+    "name":"Maybelline New York Super Stay Matte Ink Marvel",
+    "price":"183 грн",
+    "pathToPic":"https://u.makeup.com.ua/a/a9/a95r2ecbxq40.png",
+    "article":"08",
+    "color":"Ярко-красный"
+  },
+  {
+    "name":"Maybelline New York Color Sensational Vivid Hot Lacquer Lippenstift",
+    "price":"115 грн",
+    "pathToPic":"https://u.makeup.com.ua/l/ls/lszyhzpleow1.jpg",
+    "article":"09",
+    "color":"Розовый"
+  },
+  {
+    "name":"Maybelline New York Color Sensational Matte Metallics Lipstick",
+    "price":"153 грн",
+    "pathToPic":"https://u.makeup.com.ua/2/2l/2lwbpjc3wgy3.jpg",
+    "article":"10",
+    "color":"Вишневый"
+  },
+  {
+    "name":"Maybelline New York Color Sensational Matte Loaded Bolds",
+    "price":"200 грн",
+    "pathToPic":"https://u.makeup.com.ua/a/at/at4jpuuxapnm.jpg",
+    "article":"11",
+    "color":"Коралловый"
+  },
+  {
+    "name":"Maybelline New York Color Sensational Powder Matte Lipstick",
+    "price":"300 грн",
+    "pathToPic":"https://u.makeup.com.ua/q/qw/qwniy45mtygn.jpg",
+    "article":"12",
+    "color":"Малиновый"
+  }
+]
+
