@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/github.io/lipstick.github.io/static/css/main.77f39510.css",
-    "main.js": "/github.io/lipstick.github.io/static/js/main.21e22d76.js",
+    "main.js": "/github.io/lipstick.github.io/static/js/main.1620e26d.js",
     "static/js/787.04cf48d1.chunk.js": "/github.io/lipstick.github.io/static/js/787.04cf48d1.chunk.js",
     "static/media/lips.png": "/github.io/lipstick.github.io/static/media/lips.7e71cbc4de2febc84211.png",
     "index.html": "/github.io/lipstick.github.io/index.html",
     "main.77f39510.css.map": "/github.io/lipstick.github.io/static/css/main.77f39510.css.map",
-    "main.21e22d76.js.map": "/github.io/lipstick.github.io/static/js/main.21e22d76.js.map",
+    "main.1620e26d.js.map": "/github.io/lipstick.github.io/static/js/main.1620e26d.js.map",
     "787.04cf48d1.chunk.js.map": "/github.io/lipstick.github.io/static/js/787.04cf48d1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.77f39510.css",
-    "static/js/main.21e22d76.js"
+    "static/js/main.1620e26d.js"
   ]
 }
