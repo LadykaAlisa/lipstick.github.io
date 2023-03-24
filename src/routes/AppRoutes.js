@@ -8,10 +8,10 @@ import  Main from '../components/Main/Main'
 const AppRoutes = props => {
     return (
         <Switch>
-            <Redirect exact from='/' to='/inbox' />
-            <Route exact path="/inbox" component={Main}></Route>
-            <Route exact path="/favourites" component={Favourites}></Route>
-            <Route exact path="/cart" component={Cart} ></Route>
+            <Redirect exact from='/' to='github.io/lipstick.github.io/inbox' />
+            <Route exact path="github.io/lipstick.github.io//inbox" component={Main}></Route>
+            <Route exact path="github.io/lipstick.github.io//favourites" component={Favourites}></Route>
+            <Route exact path="github.io/lipstick.github.io//cart" component={Cart} ></Route>
         </Switch>
        
     );
