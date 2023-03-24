@@ -2,7 +2,7 @@
   "name": "productsstore",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://LadykaAlisa/github.io/lipstick.github.io",
+  "homepage": "https://ladykaAlisa/github.io/lipstick.github.io",
   "dependencies": {
     "-": "^0.0.1",
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.3",
