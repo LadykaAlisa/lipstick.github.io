@@ -9,9 +9,9 @@ const AppRoutes = props => {
     return (
         <Switch>
             <Redirect exact from='/' to='ladykaalisa/github.io/lipstick.github.io/inbox' />
-            <Route exact path="ladykaalisa/github.io/lipstick.github.io//inbox" component={Main}></Route>
-            <Route exact path="ladykaalisa/github.io/lipstick.github.io//favourites" component={Favourites}></Route>
-            <Route exact path="ladykaalisa/github.io/lipstick.github.io//cart" component={Cart} ></Route>
+            <Route exact path="ladykaalisa/github.io/lipstick.github.io/inbox" component={Main}></Route>
+            <Route exact path="ladykaalisa/github.io/lipstick.github.io/favourites" component={Favourites}></Route>
+            <Route exact path="ladykaalisa/github.io/lipstick.github.io/cart" component={Cart} ></Route>
         </Switch>
        
     );
