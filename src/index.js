@@ -5,7 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import WebFont from 'webfontloader';
 import * as serviceWorker from './serviceWorker';
-import { BrowserRouter } from 'react-router-dom';
+import { HashRouter } from 'react-router-dom';
 
 WebFont.load({
     google: {
@@ -14,9 +14,9 @@ WebFont.load({
 });
 ReactDOM.render(
   <React.StrictMode>
-      <BrowserRouter>
+      <HashRouter>
     <App />
-          </BrowserRouter>
+          </HashRouter>
   </React.StrictMode>,
   document.getElementById('root')
 );
